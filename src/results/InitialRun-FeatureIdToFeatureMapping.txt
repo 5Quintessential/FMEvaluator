@@ -1,0 +1,56 @@
+F0 -  After the system verifies the purchase 's
+F1 -  purchase details the supplier confirms the purchase
+F2 -  The system supports paying with credit cards
+F3 -  purchase details the supplier confirms the purchase
+F4 -  the payment by contacting the credit card company
+F5 -  When the system completes recording an order the supplier can ship the ordered products to the customer
+F6 -  The system sends the shipping documents via email
+F7 -  When the system finalizes a software order details the supplier ships the ordered product via email
+F8 -  The system sends the shipping documents
+F9 -  When the system finalizes a software order details the supplier ships the ordered product via email
+F10 -  if a customer buys a
+F11 -  very small product the system supports only air mail shipping
+F12 -  The system displays the available products
+F13 -  When a registered customer buys a product the system updates the inventory
+F14 -  The system supports paying with gift cards
+F15 -  If a customer pays with a gift card the system supports only
+F16 -  land shipping
+F17 -  A customer can track the purchase status
+F18 -  The system provides details on the product delivery status
+F19 -  The system presents the product return page
+F20 -  If the customer returns a product the system updates the inventory
+F21 -  The system presents the product page
+F22 -  When a supplier enters new products the system updates the catalog
+F23 -  The system enables customers
+F24 -  writing reviews on
+F25 -  When a customer reviews a product the system sends the product review to the relevant supplier
+F26 -  When a supplier receives new products
+F27 -  enters the new products to the system
+F28 -  The system updates the catalog
+F29 -  When the system presents the available products list
+F30 -  a customer can purchase a product
+F31 -  The system updates the shopping cart
+F32 -  The system presents the ordering page
+F33 -  If a customer purchases a product the system updates the inventory
+F34 -  When the system finalizes a software order details the supplier ships the ordered product via email
+F35 -  The system updates the product delivery status
+F36 -  When the system validates
+F37 -  purchase details the supplier confirms the purchase
+F38 -  The system clears the shopping cart
+F39 -  The system supports paying with PayPal
+F40 -  If a customer pays with PayPal
+F41 -  the System
+F42 -  verifies the PayPal
+F43 -  payment information
+F44 -  tracking options
+F45 -  The system can maintain product reviews
+F46 -  order status the system presents the shipment details
+F47 -  If a customer returns a
+F48 -  product the system sends a negative review on the product to the supplier
+F49 -  If a customer cancels an order that has not
+F50 -  been shipped the system refunds the payment
+F51 -  When a customer cancels an order that has
+F52 -  been shipped the system updates the payment by including the
+F53 -  goods return
+F54 -  The system can maintain product reviews
+F55 -  If a registered customer reviews a product the system stores the product review by product category
