@@ -1,0 +1,4 @@
+src/node_modules/
+
+# Jupyter Notebook
+src/.ipynb_checkpoints/

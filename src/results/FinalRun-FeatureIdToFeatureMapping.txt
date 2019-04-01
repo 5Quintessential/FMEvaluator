@@ -1,0 +1,68 @@
+F0 -  the purchase 's payments details the supplier confirms
+F1 -  the system asks
+F2 -  for shipment details
+F3 -  with credit cards
+F4 -  a customer pays
+F5 -  a credit card the system approves
+F6 -  the payment by
+F7 -  the credit card company
+F8 -  the system completes
+F9 -  an order the supplier can
+F10 -  ordered products to
+F11 -  the shipping documents via email
+F12 -  the system finalizes
+F13 -  a software order details the supplier ships
+F14 -  ordered product via email
+F15 -  different shipping options
+F16 -  a customer buys
+F17 -  small product the system supports
+F18 -  air mail shipping
+F19 -  the system displays
+F20 -  registered customer buys
+F21 -  the inventory
+F22 -  with gift cards
+F23 -  a gift card the system supports
+F24 -  only land shipping
+F25 -  the purchase status
+F26 -  the system provides details on
+F27 -  the product delivery status
+F28 -  the product return page
+F29 -  the customer returns
+F30 -  the product page
+F31 -  a supplier enters
+F32 -  new products the system updates
+F33 -  the catalog
+F34 -  the system enables customers writing reviews on products
+F35 -  a customer reviews
+F36 -  a product the system sends
+F37 -  the product review to
+F38 -  relevant supplier
+F39 -  a supplier receives
+F40 -  new products he
+F41 -  new products to
+F42 -  available products list
+F43 -  the shopping cart
+F44 -  ordering page
+F45 -  a customer purchases a product the system updates
+F46 -  the system validates purchase details the supplier confirms
+F47 -  the system clears
+F48 -  with paypal the system verifies
+F49 -  the paypal payment information
+F50 -  tracking options
+F51 -  a customer tracks
+F52 -  the product 's order status the system presents
+F53 -  the shipment details
+F54 -  the system can
+F55 -  handle product return
+F56 -  a customer returns
+F57 -  damaged product the system sends
+F58 -  negative review on
+F59 -  the product to
+F60 -  the system allows
+F61 -  a customer cancels
+F62 -  an order that
+F63 -  the system refunds
+F64 -  the goods return impact
+F65 -  maintain product reviews
+F66 -  registered customer reviews
+F67 -  a product the system stores the product review by product category
